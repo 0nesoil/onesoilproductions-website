@@ -11,7 +11,7 @@ window.SITE = {
   // Newsletter. Use ONE of these two options:
   newsletter: {
     // Option A: a form address from your email service (Kit: https://app.kit.com/forms/XXXX/subscriptions)
-    action: "",
+    action: "https://app.kit.com/forms/10085774/subscriptions",
     emailField: "email_address",   // Kit uses email_address; MailerLite/most others use email
     // Option B: a hosted sign-up page link (works with any service). Used if action is empty.
     link: ""
