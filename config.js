@@ -5,8 +5,7 @@ window.SITE = {
   links: {
     amazon: "",
     apple: "",
-    google: "",
-    lulu: ""
+    google: ""
   },
   // Newsletter. Use ONE of these two options:
   newsletter: {
